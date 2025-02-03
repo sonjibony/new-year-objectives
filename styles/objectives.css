@@ -261,3 +261,8 @@
 .feedback-container input[type="button"]:hover {
   background-color: rgba(99, 93, 93, 0.548);
 }
+.footer{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
