@@ -213,7 +213,7 @@
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
-  width: 100%;
+  width: 1140px;
   height: 313px;
   display: flex;
   flex-direction: column;
@@ -261,8 +261,15 @@
 .feedback-container input[type="button"]:hover {
   background-color: rgba(99, 93, 93, 0.548);
 }
+
+/* footer */
 .footer{
   display: flex;
   justify-content: space-between;
   align-items: center;
+  width: 1140px;
+  margin: 0 auto;
+  margin-top: 10px;
+  
 }
+
